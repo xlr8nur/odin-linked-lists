@@ -1,5 +1,4 @@
 # odin-linked-lists
-
-data structures
-linked list
-advantages / disadvantages over using arrays
+- Data Structures
+- Linked List
+What are the advantages / disadvantages over using arrays?
